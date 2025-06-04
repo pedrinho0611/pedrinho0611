@@ -4,6 +4,8 @@
 
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrinho0611&show_icons=true&theme=cobalt) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ## Linguagens que eu uso no meu dia 
 
 <div style="display: inline_block"><br/>
