@@ -17,9 +17,9 @@
 
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrinho0611&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+<div align="center">
+<img src="https://github-trophies.vercel.app/?username=pedrinho0611&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
+</div>
 
 <div align="center">  
 <a href="https://www.instagram.com/frog.pedro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
