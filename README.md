@@ -61,10 +61,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedrinho0611/pedrinho0611/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-<br><p align="centre"><b>Contagem de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedrinho0611}/count.svg" /></p> 
-<br></div>
+
 
 
 
